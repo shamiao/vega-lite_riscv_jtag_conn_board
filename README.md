@@ -2,6 +2,8 @@
 
 > A board for connecting FreeLink headers to RISC-V JTAG port on VEGA-Lite development board.
 
+![Board rendered image](img/board_rendered.png)
+
 ## Notice
 
 Work for VEGA-Lite only, doesn't work with VEGAboard. 
